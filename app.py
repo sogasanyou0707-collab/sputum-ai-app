@@ -9,7 +9,7 @@ from datetime import datetime
 
 # --- 設定情報 ---
 # ★ステップ2で取得した「ウェブアプリのURL」をここに貼ります
-GAS_URL = 'https://script.google.com/macros/s/AKfycbzi4QJuruYeyRNaEGd_FY5r8QlZFA1kL3IbZTQxu2_kERWxp8-UNuS8JNMffV4rV004/exec'
+GAS_URL = 'https://script.google.com/macros/s/AKfycbw0HZ1S7bdVHe3sEkudhZfaZ8lc3rFJ0aFhB9iiXFA6M6CVST3ZKg7nsbFByeyPSHD_/exec'
 
 # --- メインアプリ部分 ---
 @st.cache_resource

@@ -9,7 +9,7 @@ from datetime import datetime
 
 # --- 設定情報 ---
 # あなたのGASウェブアプリのURLをここに貼ってください
-GAS_URL = 'https://script.google.com/macros/s/あなたのURL/exec'
+GAS_URL = 'https://script.google.com/macros/s/AKfycbxobhwhk6IDwStPj3NB1J7-ufRolBoP4t6Mc8KfjHD-75A4hPzes0EA9kW-q4FwVV4/exec'
 
 # --- モデル読み込み ---
 @st.cache_resource
